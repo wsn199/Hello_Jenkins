@@ -21,5 +21,8 @@ DevOps is about experimentation. These exercises are not in any way "500 level" 
 experiment with something new that you haven't before and then break it. Fix what you broke. Then break it again. 
 You'll learn and who doesn't like breaking stuff??
 
+
+[![Build Status](http://localhost:8080/job/hiroSampleProject/badge/icon)](http://localhost:8080/job/hiroSampleProject/)
+
 ### Thank You  
 Justin Bankes <justin@liatrio.com>  
